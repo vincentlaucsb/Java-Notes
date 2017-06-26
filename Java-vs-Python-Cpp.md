@@ -3,6 +3,10 @@
 A list some interesting comparisons that popped into my head while coding
 
 ## Java vs. Python
+### Boolean Shorthands
+ * In Python, the boolean value of some_number is True if some_number is any non-zero number.
+   * Java: error: incompatible types: int cannot be converted to boolean
+
 ### Syntax
  * Java has curly braces and semi-colons
 
